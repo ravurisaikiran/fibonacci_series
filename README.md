@@ -1,5 +1,6 @@
 Problem-0
-https://github.com/user-attachments/assets/8b6a27ad-10b8-4a12-b248-ef91f7d8bdf4)
+![image](https://github.com/user-attachments/assets/09f3e894-44fc-4eec-a6cd-2483ca9c43b9)
+
 
 PROBLEM_1 
 
