@@ -22,7 +22,8 @@ So, the overall time complexity is O(K * N * log K).
 
 PROBLEM-2
 
-![image](https://github.com/user-attachments/assets/998139ec-4a85-4c4e-9748-cca9b3afc198)
+![image](https://github.com/user-attachments/assets/ec652cdf-bc45-40de-88d0-d2fa55a227f6)
+
 
 
 Use Two Pointers:
